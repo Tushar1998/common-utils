@@ -1,0 +1,10 @@
+{
+  "name": "@packages/utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@types/lodash": "^4.14.182",
+    "lodash": "^4.17.21"
+  }
+}
